@@ -1,0 +1,7 @@
+# Generated on the user's machine; never committed.
+# package/ holds a copy of Microsoft's usbaudio.sys taken from the user's own disk.
+package/
+extras/lexicon/
+*-log.txt
+*.cer
+cert-thumbprint.txt
